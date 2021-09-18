@@ -17,7 +17,7 @@ job "private_ecr_hello_world" {
       }
 
       resources {
-        cpu    = 1000
+        cpu    = 2000
         memory = 2048
       }
 
